@@ -1,0 +1,25 @@
+---
+title: "0930"
+author: "tina"
+date: "2020/9/30"
+output: html_document
+---
+
+```{r}
+library(knitr)
+purl("0930.Rmd")
+
+```
+
+```{r}
+a<- 2
+```
+
+
+```{r cars}
+summary(cars)
+```
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
