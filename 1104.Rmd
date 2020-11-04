@@ -1,0 +1,37 @@
+---
+title: '1104'
+author: "tina"
+date: "2020/11/4"
+output: html_document
+---
+```{r}
+gender = character();
+gender = logical();
+school = character()
+factor()
+title = character();
+```
+
+```{r}
+gender = "女"
+school = "國立臺北大學"
+title = "問泰昇補習班打工"
+content = "有人"
+tags =
+timestamp = 
+```
+
+```{r}
+photos 
+"https://megapx-assets.dcard.tw/images/86c78623-e1ad-4bda-a244-7e672e1713a3/full.jpeg"
+```
+
+```{r}
+trump_electoral_college_vote <- list(
+  time = ymd_hm("2020-11-03 14:40 "),
+  count = 213
+)
+```
+
+
+
